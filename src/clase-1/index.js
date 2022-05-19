@@ -15,7 +15,9 @@ function newFunction2(name = 'Jeferson', age = 18, country = 'GT') {
 newFunction2();
 newFunction2('Ricardo', 23, 'COL');
 
-//Concatenación: nos permite unir varios elemento 
+
+
+//Concatenación: nos permite unir varios elemento
 //Antes de ECMAScript 6+
 let hello = 'Hello';
 let world = 'World';
